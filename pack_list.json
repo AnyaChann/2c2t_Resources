@@ -1,12 +1,12 @@
 {
-  "packs": [
-    {
-      "url": "https://raw.githubusercontent.com/YourName/MinecraftResources/main/pack1.zip",
-      "sha1": "4de5f8a7061a2d3ac6f04cb9f27eb46cb370a04d"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/YourName/MinecraftResources/main/pack2.zip",
-      "sha1": "f096b7d72d450e82d3f300a312d92b47284d8f6b"
-    }
-  ]
+    "packs": [
+        {
+            "url": "https://github.com/AnyaChann/2c2t_Resources/blob/a1c7cbb4ff01d58c8ba7ce380251a023528aacad/Fast-Better-Grass.zip?raw=true",
+            "sha1": "4de5f8a7061a2d3ac6f04cb9f27eb46cb370a04d"
+        },
+        {
+            "url": "https://github.com/AnyaChann/2c2t_Resources/blob/a1c7cbb4ff01d58c8ba7ce380251a023528aacad/Midnighttiggers-FCT-Default_1.20_V8.zip?raw=true",
+            "sha1": "f096b7d72d450e82d3f300a312d92b47284d8f6b"
+        }
+    ]
 }
